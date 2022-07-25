@@ -1,4 +1,4 @@
-import Contact from "../../models/contact.js";
+import Contact from "../../models/contact";
 import {Request, Response} from "express";
 import {IContact} from "../../types";
 
